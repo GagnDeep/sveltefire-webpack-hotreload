@@ -1,0 +1,28 @@
+{
+  "name": "svelte-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack",
+    "dev": "webpack-dev-server --content-base public",
+    "start": "sirv public"
+  },
+  "devDependencies": {
+    "firebase": "^7.5.2",
+    "sirv-cli": "^0.4.4",
+    "sveltefire": "^0.1.1",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "babel-loader": "^8.0.6",
+    "cross-env": "^5.2.0",
+    "css-loader": "^3.0.0",
+    "mini-css-extract-plugin": "^0.7.0",
+    "serve": "^11.0.2",
+    "style-loader": "^0.23.1",
+    "svelte": "^3.6.4",
+    "svelte-loader": "2.13.4",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2",
+    "svelte-loader-hot": "^0.3.0"
+  }
+}
