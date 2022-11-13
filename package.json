@@ -21,7 +21,7 @@
     "svelte": "^3.6.4",
     "svelte-loader": "2.13.4",
     "webpack": "^4.35.2",
-    "webpack-cli": "^3.3.5",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.7.2",
     "svelte-loader-hot": "^0.3.0"
   }
